@@ -40,8 +40,4 @@ Based on the insights, here are a few suggested actions:
 - Seaborn & Matplotlib
 - Jupyter Notebook
 
-## 🚀 How to Use
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/your-username/HR-Analytics-Project.git  
+ 
